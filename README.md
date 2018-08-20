@@ -1,6 +1,8 @@
 # Introduction
 Import products and plans from csv to Stripe.
 
+See example csv files in folder **csv/**, they are exported from Stripe with default options (all columns).
+
 # Usage
 Run program:
 ```sh

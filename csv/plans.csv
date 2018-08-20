@@ -1,0 +1,7 @@
+Plan ID,Product ID,Product Name,Product Statement Descriptor,Nickname,Created (UTC),Amount,Currency,Interval,Interval Count,Usage Type,Aggregate Usage,Billing Scheme,Trial Period Days
+yearly_enterprise,prod_DS1EMQ5Dcd1TGW,Yearly base price,Price if pay yearly,Enterprise,2018-08-20 07:01,16,jpy,day,3,licensed,,per_unit,1
+yearly_professional,prod_DS1EMQ5Dcd1TGW,Yearly base price,Price if pay yearly,Professional,2018-08-20 07:01,8,jpy,day,3,licensed,,per_unit,1
+yearly_basic,prod_DS1EMQ5Dcd1TGW,Yearly base price,Price if pay yearly,Basic,2018-08-20 07:00,4,jpy,day,3,licensed,,per_unit,1
+monthly_professional,prod_DS1EtkFiLH2fjO,Monthly base price,Price if pay monthly,Professional,2018-08-20 06:59,10,jpy,day,2,licensed,,per_unit,1
+monthly_enterprise,prod_DS1EtkFiLH2fjO,Monthly base price,Price if pay monthly,Enterprise,2018-08-20 06:58,20,jpy,day,2,licensed,,per_unit,1
+monthly_basic,prod_DS1EtkFiLH2fjO,Monthly base price,Price if pay monthly,Basic,2018-08-20 06:56,5,jpy,day,2,licensed,,per_unit,1
