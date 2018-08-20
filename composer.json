@@ -1,0 +1,10 @@
+{
+    "name": "it-4-life/php-stripe-plans-import",
+    "description": "Import Stripe products, plans from exported csv files",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "stripe/stripe-php": "^6.15",
+        "vlucas/phpdotenv": "^2.5"
+    }
+}
